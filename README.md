@@ -7,9 +7,9 @@ I am an aspiring **AI & Machine Learning Engineer** currently mastering programm
 ---
 
 ### 🛠️ Tech Stack & Skills
-* **Languages:** Java, Python, C++, Bash
+* **Languages:** Java, Python, C++
 * **Frameworks & Tools:** Qt Framework, CMake, Git, GitHub
-* **Areas of Interest:** Artificial Intelligence, Cloud Computing, and Applied Physics
+* **Areas of Interest:** Artificial Intelligence, Cloud Computing
 
 ---
 
