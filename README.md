@@ -74,7 +74,7 @@ Professional enterprise-style Cafe Management Desktop Application built using Ja
 
 <p align="center">
 <a href="https://github.com/muhammadrehan-25/CafeMS">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=muhammadrehan-25&repo=CafeMS&theme=tokyonight"/>
+<img src="https://img.shields.io/badge/View%20CafeMS%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
 
@@ -97,7 +97,7 @@ Enterprise-grade Smart Parking Management System with automated workflows and re
 
 <p align="center">
 <a href="https://github.com/muhammadrehan-25/Smart-E-Parking-System">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=muhammadrehan-25&repo=Smart-E-Parking-System&theme=tokyonight"/>
+<img src="https://img.shields.io/badge/View%20ParkNova%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
 
@@ -117,8 +117,8 @@ GUI-based academic record management system developed using C++ & Qt Framework.
 `C++` `Qt Framework` `File Handling`
 
 <p align="center">
-<a href="https://github.com/muhammadrehan-25/student-record-mgmt">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=muhammadrehan-25&repo=student-record-mgmt&theme=tokyonight"/>
+<a href="https://github.com/muhammadrehan-25/Student-Record-Management-System">
+<img src="https://img.shields.io/badge/View%20Student%20Record%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
 
@@ -138,8 +138,8 @@ Python-based expense management application for tracking and organizing personal
 `Python` `JSON` `File Handling`
 
 <p align="center">
-<a href="https://github.com/muhammadrehan-25/expense-tracker">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=muhammadrehan-25&repo=expense-tracker&theme=tokyonight"/>
+<a href="https://github.com/muhammadrehan-25/Personal-Expense-Tracker">
+<img src="https://img.shields.io/badge/View%20Expense%20Tracker%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
 
@@ -165,14 +165,6 @@ Python-based expense management application for tracking and organizing personal
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadrehan-25&theme=tokyo-night"/>
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 ---
@@ -211,7 +203,7 @@ Python-based expense management application for tracking and organizing personal
 ---
 
 <h3 align="center">
-💡 “First, solve the problem. Then, write the code.” 💡
+💡 "First, solve the problem. Then, write the code." 💡
 </h3>
 
 <p align="center">
