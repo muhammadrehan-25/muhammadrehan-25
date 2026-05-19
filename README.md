@@ -1,22 +1,22 @@
 <h1 align="center">Hi 👋, I'm Muhammad Rehan</h1>
 
 <h3 align="center">
-Software Engineering Student • AI & ML Enthusiast • Java Developer
+Software Engineering Student • AI & Machine Learning Enthusiast • Java Developer
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+%26+Machine+Learning+Engineer;Java+%7C+Python+%7C+C%2B%2B+Developer;Cloud+%26+DevOps+Learner;Building+Professional+Desktop+Applications&center=true&width=700&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+%26+Machine+Learning+Enthusiast;Java+%7C+Python+%7C+C%2B%2B+Developer;Building+Professional+Desktop+Applications;Passionate+Software+Engineering+Student&center=true&width=700&height=45">
 </p>
 
 ---
 
-# 🚀 About Me
+# 👨‍💻 About Me
 
 🎓 Software Engineering student at **MUET SZAB Campus**  
 🤖 Passionate about **Artificial Intelligence & Machine Learning**  
-☁️ Exploring **Cloud Computing, DevOps & Software Architecture**  
-💻 Building professional desktop applications using **Java Swing & SQLite**  
-📚 Currently mastering **Python, Java, Data Structures & System Design**
+💻 Building modern desktop applications using **Java Swing, SQLite & Object-Oriented Programming**  
+🧠 Interested in solving real-world problems through software development  
+🚀 Continuously improving my programming, architecture, and development skills
 
 ---
 
@@ -27,14 +27,9 @@ Software Engineering Student • AI & ML Enthusiast • Java Developer
 <img src="https://skillicons.dev/icons?i=java,python,cpp" />
 </p>
 
-## ⚙️ Frameworks & Tools
+## ⚙️ Tools & Technologies
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,sqlite,vscode" />
-</p>
-
-## 📚 Currently Learning
-<p>
-<img src="https://skillicons.dev/icons?i=aws,docker,tensorflow" />
 </p>
 
 ---
@@ -43,13 +38,14 @@ Software Engineering Student • AI & ML Enthusiast • Java Developer
 
 ## ☕ AL Rehan Cafe Management System
 
-🔹 Enterprise-style Cafe Management Desktop Application  
-🔹 Built with **Java Swing + SQLite**  
-🔹 Role-based Authentication System  
-🔹 Dashboard Analytics & Revenue Tracking  
-🔹 Menu, Orders & User Management  
-🔹 CSV Export + Thermal Receipt System  
-🔹 Modern UI with professional architecture patterns  
+Professional Cafe Management Desktop Application built with **Java Swing & SQLite** featuring:
+
+✔️ Role-Based Authentication  
+✔️ Dashboard Analytics & Revenue Tracking  
+✔️ Menu & Order Management  
+✔️ User Management System  
+✔️ CSV Export & Thermal Receipt System  
+✔️ Modern Enterprise-Style UI  
 
 ### 🛠️ Tech Used
 `Java` `Swing` `SQLite` `DAO Pattern` `MVC`
@@ -61,13 +57,14 @@ Software Engineering Student • AI & ML Enthusiast • Java Developer
 
 ## 🚗 ParkNova — Smart E-Parking System
 
-🔹 Professional Smart Parking Management System  
-🔹 Built using **Java Swing/AWT**  
-🔹 Automated Vehicle Check-In & Check-Out  
-🔹 Dynamic Slot Allocation System  
-🔹 PDF Receipt Generation using Apache PDFBox  
-🔹 Analytics Dashboard with JFreeChart  
-🔹 Standalone Windows Installer Support  
+Enterprise-grade Smart Parking Management System developed using **Java Swing/AWT** featuring:
+
+✔️ Automated Vehicle Check-In & Check-Out  
+✔️ Dynamic Slot Management  
+✔️ PDF Receipt Generation  
+✔️ Real-Time Dashboard Analytics  
+✔️ SQLite Database Integration  
+✔️ Professional Installer Support  
 
 ### 🛠️ Tech Used
 `Java` `Swing` `SQLite` `PDFBox` `JFreeChart`
@@ -77,13 +74,37 @@ Software Engineering Student • AI & ML Enthusiast • Java Developer
 
 ---
 
-## 📚 Other Projects
+## 📚 Student Record Management System
 
-### 📌 Student Record Management System
-Academic management system developed using C++ & Qt Framework.
+Desktop-based academic record management system built using **C++ & Qt Framework**.
 
-### 📌 Personal Expense Tracker
-Python application for managing expenses using JSON data persistence.
+✔️ Student Data Management  
+✔️ File Handling & Persistent Storage  
+✔️ GUI-Based Desktop Interface  
+✔️ Structured OOP Design  
+
+### 🛠️ Tech Used
+`C++` `Qt Framework` `File Handling`
+
+🔗 Repository:  
+<https://github.com/muhammadrehan-25/student-record-mgmt>
+
+---
+
+## 💰 Personal Expense Tracker
+
+Python-based finance tracking application designed to manage daily expenses efficiently.
+
+✔️ Expense Recording & Tracking  
+✔️ JSON-Based Data Storage  
+✔️ Simple & Clean User Interface  
+✔️ Financial Data Management  
+
+### 🛠️ Tech Used
+`Python` `JSON` `File Handling`
+
+🔗 Repository:  
+<https://github.com/muhammadrehan-25/expense-tracker>
 
 ---
 
@@ -99,11 +120,10 @@ Python application for managing expenses using JSON data persistence.
 
 # 🎯 Current Focus
 
-- 🤖 Advancing toward becoming an AI/ML Engineer
-- ☁️ Learning Cloud Computing & DevOps
-- 🏗️ Building scalable desktop applications
-- 🧠 Strengthening problem-solving & DSA skills
-- 🚀 Creating real-world software projects
+- 🤖 Learning Artificial Intelligence & Machine Learning
+- 💻 Building professional desktop applications
+- 🧠 Improving Data Structures & Problem Solving
+- 🚀 Creating impactful real-world software projects
 
 ---
 
