@@ -9,7 +9,7 @@ Software Engineering Student • AI & Machine Learning Enthusiast • Java Devel
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+%26+Machine+Learning+Enthusiast;Java+%7C+Python+%7C+C%2B%2B+Developer;Building+Professional+Desktop+Applications;Passionate+Software+Engineering+Student&center=true&width=750&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+%26+Machine+Learning+Enthusiast;Java+%7C+Python+%7C+CPP+Developer;Building+Professional+Desktop+Apps;Passionate+Software+Engineering+Student;Open+to+Collaboration+%26+Learning&center=true&width=800&height=50&size=20&duration=3000&pause=800&color=38BDF8">
 </p>
 
 ---
@@ -17,16 +17,22 @@ Software Engineering Student • AI & Machine Learning Enthusiast • Java Devel
 # 👨‍💻 About Me
 
 ```yaml
-Name: Muhammad Rehan
-Education: Software Engineering @ MUET SZAB Campus
-Focus: Artificial Intelligence & Machine Learning
-Languages: Java, Python, C++
-Passion: Building Professional Desktop Applications
+Name        : Muhammad Rehan
+Location    : Sindh, Pakistan 🇵🇰
+Education   : Software Engineering @ MUET SZAB Campus
+Year        : Undergraduate Student
+Focus       : Artificial Intelligence & Machine Learning
+Languages   : Java | Python | C++
+Tools       : Git, GitHub, SQLite, Qt Framework
+Passion     : Building Professional Desktop Applications
+GitHub      : github.com/muhammadrehan-25
+Email       : engrehan21@gmail.com
+Status      : Open to Collaboration ✅
 ```
 
-💻 Passionate software engineering student focused on creating real-world desktop applications with clean architecture and modern UI design.
+💻 Passionate software engineering student focused on creating real-world desktop applications with **clean architecture** and **modern UI design**.
 
-🚀 Interested in Artificial Intelligence, Object-Oriented Programming, and software systems that solve practical problems.
+🚀 Interested in **Artificial Intelligence**, Object-Oriented Programming, and software systems that solve practical problems.
 
 🧠 Continuously improving problem-solving, software design, and development skills.
 
