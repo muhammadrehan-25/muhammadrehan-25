@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f172a,100:1e293b&text=Muhammad%20Rehan&fontColor=ffffff&fontSize=55&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20•%20Java%20Developer%20•%20AI%20Enthusiast&descAlignY=58"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Muhammad Rehan</h1>
 
 <h3 align="center">
@@ -5,31 +9,47 @@ Software Engineering Student • AI & Machine Learning Enthusiast • Java Devel
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+%26+Machine+Learning+Enthusiast;Java+%7C+Python+%7C+C%2B%2B+Developer;Building+Professional+Desktop+Applications;Passionate+Software+Engineering+Student&center=true&width=700&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+%26+Machine+Learning+Enthusiast;Java+%7C+Python+%7C+C%2B%2B+Developer;Building+Professional+Desktop+Applications;Passionate+Software+Engineering+Student&center=true&width=750&height=45">
 </p>
 
 ---
 
 # 👨‍💻 About Me
 
-🎓 Software Engineering student at **MUET SZAB Campus**  
-🤖 Passionate about **Artificial Intelligence & Machine Learning**  
-💻 Building modern desktop applications using **Java Swing, SQLite & Object-Oriented Programming**  
-🧠 Interested in solving real-world problems through software development  
-🚀 Continuously improving my programming, architecture, and development skills
+```yaml
+Name: Muhammad Rehan
+Education: Software Engineering @ MUET SZAB Campus
+Focus: Artificial Intelligence & Machine Learning
+Languages: Java, Python, C++
+Passion: Building Professional Desktop Applications
+```
+
+💻 Passionate software engineering student focused on creating real-world desktop applications with clean architecture and modern UI design.
+
+🚀 Interested in Artificial Intelligence, Object-Oriented Programming, and software systems that solve practical problems.
+
+🧠 Continuously improving problem-solving, software design, and development skills.
 
 ---
 
 # 🛠️ Tech Stack
 
-## 💻 Languages
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,cpp" />
-</p>
+<p align="center">
 
-## ⚙️ Tools & Technologies
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,sqlite,vscode" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Java%20Swing-GUI-6F4E37?style=for-the-badge&logo=java&logoColor=white"/>
+
 </p>
 
 ---
@@ -38,77 +58,104 @@ Software Engineering Student • AI & Machine Learning Enthusiast • Java Devel
 
 ## ☕ AL Rehan Cafe Management System
 
-Professional Cafe Management Desktop Application built with **Java Swing & SQLite** featuring:
+Professional enterprise-style Cafe Management Desktop Application built using Java Swing & SQLite.
 
-✔️ Role-Based Authentication  
-✔️ Dashboard Analytics & Revenue Tracking  
-✔️ Menu & Order Management  
-✔️ User Management System  
-✔️ CSV Export & Thermal Receipt System  
-✔️ Modern Enterprise-Style UI  
+### ✨ Features
+- 🔐 Role-Based Authentication
+- 📊 Revenue Dashboard Analytics
+- 🍽️ Menu & Order Management
+- 👥 User Management System
+- 🧾 Thermal Receipt Generation
+- 📁 CSV Export Support
+- 🎨 Modern Desktop UI
 
 ### 🛠️ Tech Used
 `Java` `Swing` `SQLite` `DAO Pattern` `MVC`
 
-🔗 Repository:  
-<https://github.com/muhammadrehan-25/CafeMS>
+<p align="center">
+<a href="https://github.com/muhammadrehan-25/CafeMS">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=muhammadrehan-25&repo=CafeMS&theme=tokyonight"/>
+</a>
+</p>
 
 ---
 
 ## 🚗 ParkNova — Smart E-Parking System
 
-Enterprise-grade Smart Parking Management System developed using **Java Swing/AWT** featuring:
+Enterprise-grade Smart Parking Management System with automated workflows and real-time analytics.
 
-✔️ Automated Vehicle Check-In & Check-Out  
-✔️ Dynamic Slot Management  
-✔️ PDF Receipt Generation  
-✔️ Real-Time Dashboard Analytics  
-✔️ SQLite Database Integration  
-✔️ Professional Installer Support  
+### ✨ Features
+- 🚘 Vehicle Check-In / Check-Out
+- 🅿️ Dynamic Slot Management
+- 📄 PDF Receipt Generation
+- 📈 Dashboard Analytics
+- 🗄️ SQLite Database Integration
+- ⚙️ Installer & Packaging Support
 
 ### 🛠️ Tech Used
 `Java` `Swing` `SQLite` `PDFBox` `JFreeChart`
 
-🔗 Repository:  
-<https://github.com/muhammadrehan-25/Smart-E-Parking-System>
+<p align="center">
+<a href="https://github.com/muhammadrehan-25/Smart-E-Parking-System">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=muhammadrehan-25&repo=Smart-E-Parking-System&theme=tokyonight"/>
+</a>
+</p>
 
 ---
 
 ## 📚 Student Record Management System
 
-Desktop-based academic record management system built using **C++ & Qt Framework**.
+GUI-based academic record management system developed using C++ & Qt Framework.
 
-✔️ Student Data Management  
-✔️ File Handling & Persistent Storage  
-✔️ GUI-Based Desktop Interface  
-✔️ Structured OOP Design  
+### ✨ Features
+- 📂 Student Data Management
+- 💾 File Persistence
+- 🖥️ Desktop GUI Interface
+- 🧠 OOP-Based Design
 
 ### 🛠️ Tech Used
 `C++` `Qt Framework` `File Handling`
 
-🔗 Repository:  
-<https://github.com/muhammadrehan-25/student-record-mgmt>
+<p align="center">
+<a href="https://github.com/muhammadrehan-25/student-record-mgmt">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=muhammadrehan-25&repo=student-record-mgmt&theme=tokyonight"/>
+</a>
+</p>
 
 ---
 
 ## 💰 Personal Expense Tracker
 
-Python-based finance tracking application designed to manage daily expenses efficiently.
+Python-based expense management application for tracking and organizing personal finances.
 
-✔️ Expense Recording & Tracking  
-✔️ JSON-Based Data Storage  
-✔️ Simple & Clean User Interface  
-✔️ Financial Data Management  
+### ✨ Features
+- 💸 Expense Tracking
+- 📊 Financial Record Management
+- 📁 JSON-Based Data Storage
+- 🖥️ Clean & Simple Interface
 
 ### 🛠️ Tech Used
 `Python` `JSON` `File Handling`
 
-🔗 Repository:  
-<https://github.com/muhammadrehan-25/expense-tracker>
+<p align="center">
+<a href="https://github.com/muhammadrehan-25/expense-tracker">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=muhammadrehan-25&repo=expense-tracker&theme=tokyonight"/>
+</a>
+</p>
 
 ---
 
-# 📈 GitHub Stats
+# 🏆 Achievements
+
+🏆 Built multiple enterprise-style desktop applications  
+🏆 Developed installer-based Java software systems  
+🏆 Created real-world management systems using Java & SQLite  
+🏆 Strong understanding of Object-Oriented Programming concepts  
+🏆 Actively growing in AI & Machine Learning
+
+---
+
+# 📈 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=muhammadrehan-25&show_icons=true&theme=tokyonight" height="180em"/>
@@ -116,41 +163,57 @@ Python-based finance tracking application designed to manage daily expenses effi
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadrehan-25&theme=tokyonight" height="180em"/>
 </p>
 
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadrehan-25&theme=tokyo-night"/>
+</p>
+
 ---
 
-# 🎯 Current Focus
+# 🐍 Contribution Snake
 
-- 🤖 Learning Artificial Intelligence & Machine Learning
-- 💻 Building professional desktop applications
-- 🧠 Improving Data Structures & Problem Solving
-- 🚀 Creating impactful real-world software projects
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+---
+
+# 🎯 Current Goals
+
+- 🤖 Advance toward becoming an AI/ML Engineer
+- 💻 Build impactful real-world software
+- 🧠 Improve problem-solving & software architecture
+- 🚀 Create scalable professional applications
 
 ---
 
 # 📫 Connect With Me
 
-<p align="left">
+<p align="center">
 
 <a href="https://www.linkedin.com/in/muhammad-rehan-kamboh-1657a9381" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
 
 <a href="mailto:engrehan21@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
 </a>
 
 </p>
 
 ---
 
-# 📊 Profile Views
+# 👀 Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=muhammadrehan-25&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=muhammadrehan-25&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
 
 ---
 
 <h3 align="center">
-✨ "Innovation distinguishes between a leader and a follower." ✨
+💡 “First, solve the problem. Then, write the code.” 💡
 </h3>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f172a,100:1e293b"/>
+</p>
